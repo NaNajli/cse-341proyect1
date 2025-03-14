@@ -1,0 +1,12 @@
+
+PUT http://localhost:3000/contacts/67d2fc0f1b29d2cff26bebe4
+Content-Type: application/json
+
+ {
+    "firstname": "Rocker",
+    "lastname": "Sim",
+    "email": "siRo@gmail.com",
+    "favoritecolor": "green",
+    "birthday": "1990-12-23"
+ }
+ 
